@@ -1,0 +1,87 @@
+
+*{
+  margin: 0px;
+}
+header{
+  width: 1680px;
+  height: 880px;
+}
+.banner{
+  display: flex;
+  text-align: center;
+}
+.banner-content{
+  width: 50%;
+}
+
+.btn-primary{
+  color: #FFF;
+  text-align: right;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  background-color: rgb(143, 30, 30);
+}
+.banner-title{
+  text-align: right;
+  font-size: 80px;
+  margin-top: 250px;
+  width: 525px;
+}
+.main{
+  width: 70%;
+  margin: 0px auto;
+}
+.banner-description{
+  width: 500px;
+}
+.content-middle{
+  display: flex;
+  justify-content: space-between;
+  text-align: left;
+  margin: 0px 450px;
+  gap: 100px;
+
+}
+.contant-item{
+  margin-top: 250px;
+}
+.contant-title{
+  font-size: 40px;
+}
+.contant-lit,
+.contant-description{
+  width: 416px;
+  margin-top: 10px;
+}
+section{
+  text-align: center;
+}
+.my-plans{
+  margin-top: 100px;
+  margin-bottom: 50px;
+}
+.logo-contant{
+  display: flex;
+  width: 700px;
+  justify-content: space-between;
+ margin: auto;
+   gap: 10px;
+}
+
+.logo-name{
+  margin-bottom: 12px;
+  margin-top: 12px;
+}
+.text-banner{
+  margin-top: 80px;
+  
+}
+.btn-call{
+  text-align: center;
+  font-size: 20px;
+  line-height: normal;
+  background-color: rgb(143, 30, 30);
+}
+
